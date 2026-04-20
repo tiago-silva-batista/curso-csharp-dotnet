@@ -1,0 +1,14 @@
+C:\Users\tiago\OneDrive\Área de Trabalho\Curso-Csharp-DotNet\Aula05\bin\Debug\net10.0\Aula05.exe
+C:\Users\tiago\OneDrive\Área de Trabalho\Curso-Csharp-DotNet\Aula05\bin\Debug\net10.0\Aula05.deps.json
+C:\Users\tiago\OneDrive\Área de Trabalho\Curso-Csharp-DotNet\Aula05\bin\Debug\net10.0\Aula05.runtimeconfig.json
+C:\Users\tiago\OneDrive\Área de Trabalho\Curso-Csharp-DotNet\Aula05\bin\Debug\net10.0\Aula05.dll
+C:\Users\tiago\OneDrive\Área de Trabalho\Curso-Csharp-DotNet\Aula05\bin\Debug\net10.0\Aula05.pdb
+C:\Users\tiago\OneDrive\Área de Trabalho\Curso-Csharp-DotNet\Aula05\obj\Debug\net10.0\Aula05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Área de Trabalho\Curso-Csharp-DotNet\Aula05\obj\Debug\net10.0\Aula05.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Curso-Csharp-DotNet\Aula05\obj\Debug\net10.0\Aula05.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Área de Trabalho\Curso-Csharp-DotNet\Aula05\obj\Debug\net10.0\Aula05.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Curso-Csharp-DotNet\Aula05\obj\Debug\net10.0\Aula05.dll
+C:\Users\tiago\OneDrive\Área de Trabalho\Curso-Csharp-DotNet\Aula05\obj\Debug\net10.0\refint\Aula05.dll
+C:\Users\tiago\OneDrive\Área de Trabalho\Curso-Csharp-DotNet\Aula05\obj\Debug\net10.0\Aula05.pdb
+C:\Users\tiago\OneDrive\Área de Trabalho\Curso-Csharp-DotNet\Aula05\obj\Debug\net10.0\Aula05.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Curso-Csharp-DotNet\Aula05\obj\Debug\net10.0\ref\Aula05.dll
